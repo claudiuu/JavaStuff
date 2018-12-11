@@ -16,6 +16,7 @@ class TestAuctions {
 	 */
 	@BeforeEach
 	void setUp() throws Exception {
+		//
 	}
 
 	@Test

@@ -37,7 +37,7 @@ class SudokuTester {
     
     // test the 3x3 clusters
     for (int i = 0; i < 3; i++) {
-    	
+    	//
     }
     
     return true;
